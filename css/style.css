@@ -182,6 +182,7 @@ footer {
   font-weight: 600;
   font-size: 1.4rem;
   line-height: 17px;
+  color: var(--secondary-color);
 }
 
 
